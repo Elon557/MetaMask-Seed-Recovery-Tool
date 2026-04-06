@@ -25,4 +25,4 @@ Conributors are welcome! If you would like to contribute, open up a pull request
 ### Am I required to donate?
 Any donations to support my work are greatly appreciated but not a requirement of using this application. If it helps you, don't hesitate to let me know! You can contact me on Discord @ EthanR.
 ### Address for optional donations
-0xeDEEB0EF2F166a8Db85BC18D0eD9F1022587171A
+0xc256a6869dcc04af795c0f040b30f4a3fa9d3007
