@@ -1,4 +1,4 @@
-# MetaMask Seed Recovery Tool (previously MetaMask Seed Unscrambler)
+# Met
 
 ## V3 is here!
 A much more refined UI and more efficient algorythm have been bundled into v3. Have an issue with it or find a bug? Open up an Issue and I'll take a look as soon as I can.
